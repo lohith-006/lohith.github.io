@@ -8,9 +8,6 @@ main:
 
   - title: "Projects"
     url: /Projects/    
-    
-  - #title: "Portfolio"
-    #url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -20,3 +17,8 @@ main:
     
   - #title: "Guide"
     #url: /markdown/
+
+  - #title: "Portfolio"
+    #url: /portfolio/
+
+  
